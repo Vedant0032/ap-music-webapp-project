@@ -1,0 +1,18 @@
+body{
+    background-size:cover;
+}
+
+.note{
+   
+    color:maroon;
+}
+
+.heading{
+    color:maroon;
+    box-shadow: 3px 3px 3px brown;
+}
+
+canvas{
+    border-radius:30px;
+    border:5px solid white;
+}
